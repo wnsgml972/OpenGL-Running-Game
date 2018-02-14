@@ -1,6 +1,6 @@
 # OpenGL-Running-Game
 
-## 환경 설정
+## OpenGL 환경 설정  (Visual Studio)
 
 1. UnZip glut-3.7.6-bin<br/>
 
