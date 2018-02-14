@@ -1,0 +1,17 @@
+﻿  main.cpp
+c:\users\hscom-018\desktop\junheegit\graphicsgit\opengl 프로젝트\프로젝트 소스 파일\main.cpp(102): warning C4838: 'double'에서 'float'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\hscom-018\desktop\junheegit\graphicsgit\opengl 프로젝트\프로젝트 소스 파일\main.cpp(103): warning C4838: 'double'에서 'float'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\hscom-018\desktop\junheegit\graphicsgit\opengl 프로젝트\프로젝트 소스 파일\main.cpp(190): warning C4838: 'double'에서 'float'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\hscom-018\desktop\junheegit\graphicsgit\opengl 프로젝트\프로젝트 소스 파일\main.cpp(191): warning C4838: 'double'에서 'float'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\hscom-018\desktop\junheegit\graphicsgit\opengl 프로젝트\프로젝트 소스 파일\main.cpp(204): warning C4838: 'double'에서 'float'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\hscom-018\desktop\junheegit\graphicsgit\opengl 프로젝트\프로젝트 소스 파일\main.cpp(205): warning C4838: 'double'에서 'float'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\hscom-018\desktop\junheegit\graphicsgit\opengl 프로젝트\프로젝트 소스 파일\main.cpp(254): warning C4838: 'double'에서 'float'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\hscom-018\desktop\junheegit\graphicsgit\opengl 프로젝트\프로젝트 소스 파일\main.cpp(363): warning C4838: 'double'에서 'float'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\hscom-018\desktop\junheegit\graphicsgit\opengl 프로젝트\프로젝트 소스 파일\main.cpp(631): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\hscom-018\desktop\junheegit\graphicsgit\opengl 프로젝트\프로젝트 소스 파일\main.cpp(632): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\hscom-018\desktop\junheegit\graphicsgit\opengl 프로젝트\프로젝트 소스 파일\main.cpp(633): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\hscom-018\desktop\junheegit\graphicsgit\opengl 프로젝트\프로젝트 소스 파일\main.cpp(637): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\hscom-018\desktop\junheegit\graphicsgit\opengl 프로젝트\프로젝트 소스 파일\main.cpp(638): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\hscom-018\desktop\junheegit\graphicsgit\opengl 프로젝트\프로젝트 소스 파일\main.cpp(639): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+  Graphics-Project.vcxproj -> C:\Users\hscom-018\documents\visual studio 2015\Projects\Graphics-Project\Debug\Graphics-Project.exe
+  Graphics-Project.vcxproj -> C:\Users\hscom-018\documents\visual studio 2015\Projects\Graphics-Project\Debug\Graphics-Project.pdb (Full PDB)
